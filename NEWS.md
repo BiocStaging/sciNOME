@@ -1,3 +1,3 @@
-# sciNOME 0.99.0: Initial release.
+# sciNOME 0.99.1: Initial release.
 
 * Initial CRAN submission.
